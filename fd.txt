@@ -1,0 +1,5 @@
+pulibc String okOnLoad(String ss)
+{
+	ss=ss+"ok";
+	return ss;
+}
